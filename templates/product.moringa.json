@@ -127,10 +127,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Free Delivery  on orders over $40",
-            "text_2": "Free Delivery  on orders over $40",
-            "text_3": "Free Delivery  on orders over $40",
-            "text_4": "Free Delivery  on orders over $40",
+            "text_1": "Simple. Natural. Powerful.",
+            "text_2": "Simple. Natural. Powerful.",
+            "text_3": "Simple. Natural. Powerful.",
+            "text_4": "Simple. Natural. Powerful.",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -161,10 +161,11 @@
         "item_BrjwQF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/How.much.matcha.day.9_480x480_0779f5eb-d80e-48d8-98c7-7d6194448e1b.webp",
             "tab_label": "Item",
             "subheading": "",
-            "title": "",
-            "content": "<p><br/>This Makeup Pouch is designed to keep your essentials organized, accessible, and ready wherever you go.</p><p>With its spacious interior and smart compartments, it easily stores cosmetics, skincare, toiletries, and everyday items in one neat place.<br/><br/></p>",
+            "title": "Natural Energy & Balance",
+            "content": "<p>Enjoy a clean, plant-based boost that helps reduce fatigue and support overall vitality. With every serving, EnergyRoots helps you feel more energized, balanced, and ready for the day.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -194,10 +195,10 @@
           "type": "ai_gen_block_adef03d",
           "name": "Free delivery on orders",
           "settings": {
-            "text_1": "Free Delivery  on orders over $40",
-            "text_2": "Free Delivery  on orders over $40",
-            "text_3": "Free Delivery  on orders over $40",
-            "text_4": "Free Delivery  on orders over $40",
+            "text_1": "Pure energy from nature",
+            "text_2": "Pure energy from nature",
+            "text_3": "Pure energy from nature",
+            "text_4": "Pure energy from nature",
             "show_icon": false,
             "icon_type": "star",
             "icon_size": 20,
@@ -228,10 +229,11 @@
         "item_GpEwj6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/12_Matcha_Health_Benefits_For_Men.webp",
             "tab_label": "",
             "subheading": "",
-            "title": "",
-            "content": "<p><br/>Stylish yet practical, this pouch helps you stay prepared without adding bulk to your bag. Whether at home or on the move, Nazzemni makes organization simple and elegant. ✨<br/><br/></p>",
+            "title": "Pure Plant-Based Nutrition",
+            "content": "<p>Our moringa is packed with essential vitamins, minerals, and antioxidants to support your daily wellness. Sourced from high-quality farms, it delivers natural nourishment your body can rely on.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -260,7 +262,7 @@
         "item_77LR69": {
           "type": "item",
           "settings": {
-            "row_heading": "Large capacity — fits all essentials in one pouch",
+            "row_heading": "Organic & Natural",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -270,7 +272,7 @@
         "item_dEPCJH": {
           "type": "item",
           "settings": {
-            "row_heading": "Lightweight & travel-friendly",
+            "row_heading": "Rich in Nutrients",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -280,7 +282,7 @@
         "item_KWPwtH": {
           "type": "item",
           "settings": {
-            "row_heading": "Stylish modern design",
+            "row_heading": "Vegan & Gluten-Free",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -290,7 +292,7 @@
         "item_jEyeCX": {
           "type": "item",
           "settings": {
-            "row_heading": "Durable materials for daily use",
+            "row_heading": "Sustainably Sourced",
             "first_column": "Yes",
             "second_column": "No",
             "third_column": "",
@@ -433,29 +435,29 @@
         "question_adqrYK": {
           "type": "question",
           "settings": {
-            "title": "Is the pouch suitable for travel?",
-            "answer": "<p>Yes! The Nazzemni Makeup Pouch is lightweight, compact, and travel-friendly — ideal for vacations, business trips, gym bags, or everyday use.</p>"
+            "title": "What is moringa?",
+            "answer": "<p>Moringa is a nutrient-rich plant known for its vitamins, minerals, and antioxidants that support overall health and wellness.</p>"
           }
         },
         "question_TDP7NK": {
           "type": "question",
           "settings": {
-            "title": "Does it have compartments inside?",
-            "answer": "<p>Absolutely. It features multiple partitions to help you keep items organized and easy to find.</p>"
+            "title": "How do I use moringa powder?",
+            "answer": "<p>You can mix it into water, smoothies, juice, or tea. Start with ½–1 teaspoon daily and adjust as needed.</p>"
           }
         },
         "question_hPGXCN": {
           "type": "question",
           "settings": {
-            "title": "Can it be used for things other than makeup?",
-            "answer": "<p>Of course! Many customers use it for toiletries, tech accessories, stationery, or small personal items.<br/></p>"
+            "title": "Is your product natural?",
+            "answer": "<p>Yes, our moringa is 100% pure, organic, and free from additives, fillers, and preservatives.</p>"
           }
         },
         "question_7Rxwez": {
           "type": "question",
           "settings": {
-            "title": "Is this a good gift option?",
-            "answer": "<p>Definitely. Its stylish design and practicality make it a great gift for friends, family, or anyone who loves staying organized.</p>"
+            "title": "How should I store it?",
+            "answer": "<p>Keep it in a cool, dry place and seal it properly after each use to maintain freshness.</p>"
           }
         },
         "question_Pzgd7t": {
@@ -463,6 +465,20 @@
           "settings": {
             "title": "Is it lightweight to carry?",
             "answer": "<p>Yes, it’s designed to be portable and easy to carry without adding bulk to your bag. </p>"
+          }
+        },
+        "question_qqYbHq": {
+          "type": "question",
+          "settings": {
+            "title": "Is it suitable for everyone?",
+            "answer": "<p>It is suitable for most diets, including vegan and gluten-free. If you have any medical conditions, consult a professional before use.</p>"
+          }
+        },
+        "question_QEjEa6": {
+          "type": "question",
+          "settings": {
+            "title": "When will I see results?",
+            "answer": "<p>Many people notice increased energy and well-being within a few days to a few weeks of consistent use.</p>"
           }
         }
       },
@@ -472,7 +488,9 @@
         "question_TDP7NK",
         "question_hPGXCN",
         "question_7Rxwez",
-        "question_Pzgd7t"
+        "question_Pzgd7t",
+        "question_qqYbHq",
+        "question_QEjEa6"
       ],
       "name": "FAQ",
       "settings": {
